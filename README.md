@@ -16,7 +16,7 @@ Setup the Arduino IDE on your system. Make sure you install at least version 1.8
 
 Out of the box, Arduino does not include support for Kaleidoscope keyboards. To be able to build and install new firmware on your keyboard, you will need to teach Arduino about Kaleidoscope.
 
-You can find instructions for setting up the Arduino IDE and adding support for Kaleidoscope [on the Kaleidoscope wiki](https://github.com/keyboardio/Kaleidoscope/wiki/Install-Arduino)
+You can find instructions for setting up the Arduino IDE and adding support for Kaleidoscope [on ReadTheDocs]https://kaleidoscope.readthedocs.io/en/latest/setup_toolchain.html)
 
 Once that's done, you're ready to download the Model 01's firmware source code.
 
